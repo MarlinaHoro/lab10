@@ -21,7 +21,6 @@ class Form
         echo '<table width="100%" border="0">';
         for ($j = 0; $j < count($this->fields); $j++) {
             echo "<tr><td
-
 align='right'>" . $this->fields[$j]['label'] . "</td>";
             echo "<td><input type='text'
 name='" . $this->fields[$j]['name'] . "'></td></tr>";
