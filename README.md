@@ -16,11 +16,12 @@
 
 
 
-2. membuat file baru dengan nama file form_input.php
+3. membuat file baru dengan nama file form_input.php
 
 ![2.png](Gambar/2.png)
 
-3. hasilnya
+4. hasilnya
+
 ![22.png](Gambar/22.png)
 
 
